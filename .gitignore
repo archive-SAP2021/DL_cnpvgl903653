@@ -1,5 +1,6 @@
 # python cache
 .ipynb_checkpoints/
+*.pyc
 __pycache__/
 yoochoose-clicks.dat
 yoochoose-buys.dat
