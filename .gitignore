@@ -6,3 +6,7 @@ yoochoose-clicks.dat
 yoochoose-buys.dat
 # testing performance 
 keras/
+# competition already have it, this repository just backup for SAP
+competition/
+foundation/
+CAAS/resource/amazon_data/
